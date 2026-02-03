@@ -1,5 +1,5 @@
 # Detection-of-fraudulent-jobs-
-# Job Fraud Detection using Machine Learning & Explainable AI
+# Job Fraud Detection using Logistic Regression model
 # 📌 Project Overview
 
 This project investigates fraudulent job postings using structured job-advertisement data and machine learning. The analysis is framed around a business trust & safety problem, with a focus on:
