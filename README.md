@@ -97,6 +97,7 @@ SMOTE is applied only to the training data to avoid data leakage.
 
 Rather than relying on a default probability threshold:
 Decision thresholds are evaluated based on fraud-detection priorities
+The threshold are based on business cost
 
 # Model Explainability with SHAP
 
