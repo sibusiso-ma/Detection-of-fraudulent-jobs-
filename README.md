@@ -168,6 +168,6 @@ Skills Demonstrated
 
 4. Deployment-ready risk scoring pipeline
 5. The focus is on risk identification, not pure accuracy
-6. Use a treebased model to describe the 
+6. Use a treebased model to describe the problem
 
 This aligns the model’s behavior with real-world moderation and review workflows.
